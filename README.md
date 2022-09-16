@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-Challenge from front-end mentor completed@! 🚀
+Challenge from front-end mentor completed! 🚀
