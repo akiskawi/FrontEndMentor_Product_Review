@@ -114,7 +114,7 @@ p {
     background-color: var(--veryDarkBlue);
 }
 
-@media only screen and (max-width:1000px) {
+@media only screen and (max-width:400px) {
     .card {
         flex-wrap: wrap;
     }
